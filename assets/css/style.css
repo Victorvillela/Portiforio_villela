@@ -760,6 +760,11 @@ section {
   margin-top: 5px;
 }
 
+.legenda_dream{
+  margin-right: -16px;
+  margin-top: 8px;
+}
+
 .conteudo_expertise .content ul {
   list-style: none;
   padding: 0;
