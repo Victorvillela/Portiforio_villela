@@ -970,6 +970,10 @@ section {
   margin-bottom: 0;
 }
 
+.imagem-pequena {
+  width: 300px;
+  height: 300px;
+}
 
 .icon-carousel {
   display: flex;
