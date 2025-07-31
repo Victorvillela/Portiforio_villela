@@ -2,7 +2,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   color: #fff;
-  background-color: #000;
+  background-color: #090e19;
 }
 
 a {
@@ -145,7 +145,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: #000;
+  background: #090e19;
 }
 
 #header .logo {
@@ -787,7 +787,7 @@ section {
 /* Geral */
 #conteudo_skill {
   padding: 50px 0; 
-  background-color: #000; 
+  background-color: #090e19; 
 }
 
 .section-title h1 {
@@ -1201,7 +1201,7 @@ section {
 # contato
 --------------------------------------------------------------*/
 .contato {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/background.jpg") fixed center center;
+  background: linear-gradient(rgba(9, 14, 25, 1), rgba(9, 14, 50, 1)), url("../img/background.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
