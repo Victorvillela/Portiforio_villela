@@ -134,6 +134,15 @@ h6 {
   }
 }
 
+.tp-texto--topicos ul li {
+  background-image: url(../img/seta_convertida.svg);
+  background-repeat: no-repeat;
+  background-position: 0 1%; /* alinha verticalmente com o texto */
+  background-size: 24px 24px; /* ajuste o tamanho conforme necessário */
+  padding-left: 50px; /* Aumentado de 40px para 50px */
+  line-height: 1.5em; /* melhora alinhamento vertical */
+  list-style: none; /* remove o marcador padrão */
+}
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
